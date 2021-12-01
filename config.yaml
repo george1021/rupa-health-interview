@@ -1,0 +1,2 @@
+default_email_service: mailgun
+last_used_email_service: mailgun
